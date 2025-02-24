@@ -1,0 +1,10 @@
+A continuación dejo los comandos de Python que hemos visto cada semana se actualiza esta lista 
+
+
+t.forward(100) --- avanza la tortuga
+t.backward(100) ---- retrocede la tortuga
+t.left(90) gira a la izquierda 
+t.right(90) gira a la derecha 
+t.up () tortuga se levanta no escribe o no deja huella
+t.down() tortuga se baja o escribe 
+t.colo("red") tortuga cambia de color 
