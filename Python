@@ -1,6 +1,6 @@
 A continuación dejo los comandos de Python que hemos visto cada semana se actualiza esta lista 
 
-
+Clase 1 
 t.forward(100) --- avanza la tortuga
 t.backward(100) ---- retrocede la tortuga
 t.left(90) gira a la izquierda 
@@ -8,3 +8,23 @@ t.right(90) gira a la derecha
 t.up () tortuga se levanta no escribe o no deja huella
 t.down() tortuga se baja o escribe 
 t.color("red") tortuga cambia de color 
+
+
+Clase 2 
+Para crear una variable solo coloco el nombre y su valor 
+Ejemplo: Nombre="Marce" Edad=30 
+Operaciones con variables 
+a = 30
+b = 5
+print(a+b) Suma
+print(a-b) Resta
+print(a*b) Multiplicación 
+print(a/b) División
+
+Comando print() Para imprimir en la consola 
+nombre= "Marcela"
+apellido= "Pinzón"
+print(nombre + apellido) puedo sumar cadenas
+print(nombre * apellido) no puedo multiplicar cadenas 
+print(nombre + b) no puedo sumar cadenas y numeros 
+print(nombre * b) si puedo multiplicar cadenas y numeros 
